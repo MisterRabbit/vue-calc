@@ -1,5 +1,7 @@
 # vue-calc
 
+View site: [calc.umnov.site](http://calc.umnov.site/)
+
 ## Project setup
 ```
 npm install
